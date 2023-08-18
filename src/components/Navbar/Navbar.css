@@ -1,0 +1,7 @@
+.navbar-image{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 5px;
+}
